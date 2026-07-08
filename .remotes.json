@@ -1,0 +1,32 @@
+[
+  {
+    "package": "metasurvey.anda",
+    "url": "https://github.com/metasurveyr/metasurvey.anda",
+    "via": ["metasurvey"],
+    "from": "metasurvey"
+  },
+  {
+    "package": "metasurvey.core",
+    "url": "https://github.com/metasurveyr/metasurvey.core",
+    "via": ["metasurvey"],
+    "from": "metasurvey"
+  },
+  {
+    "package": "metasurvey.explorer.backend",
+    "url": "https://github.com/metasurveyr/metasurvey.explorer.backend",
+    "via": ["metasurvey"],
+    "from": "metasurvey"
+  },
+  {
+    "package": "metasurvey.explorer.frontend",
+    "url": "https://github.com/metasurveyr/metasurvey.explorer.frontend",
+    "via": ["metasurvey"],
+    "from": "metasurvey"
+  },
+  {
+    "package": "metasurvey.fromstata",
+    "url": "https://github.com/metasurveyr/metasurvey.fromstata",
+    "via": ["metasurvey"],
+    "from": "metasurvey"
+  }
+]

@@ -5,3 +5,23 @@
 [submodule "metasurvey"]
 	path = metasurvey
 	url = https://github.com/metasurveyr/metasurvey
+[submodule "metasurvey.anda"]
+	path = metasurvey.anda
+	url = https://github.com/metasurveyr/metasurvey.anda
+	registered = false
+[submodule "metasurvey.core"]
+	path = metasurvey.core
+	url = https://github.com/metasurveyr/metasurvey.core
+	registered = false
+[submodule "metasurvey.explorer.backend"]
+	path = metasurvey.explorer.backend
+	url = https://github.com/metasurveyr/metasurvey.explorer.backend
+	registered = false
+[submodule "metasurvey.explorer.frontend"]
+	path = metasurvey.explorer.frontend
+	url = https://github.com/metasurveyr/metasurvey.explorer.frontend
+	registered = false
+[submodule "metasurvey.fromstata"]
+	path = metasurvey.fromstata
+	url = https://github.com/metasurveyr/metasurvey.fromstata
+	registered = false
